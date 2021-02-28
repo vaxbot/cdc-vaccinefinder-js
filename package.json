@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vaxbot/cdc-vaccinefinder.git"
+    "url": "git+https://github.com/vaxbot/npm-cdc-vaccinefinder.git"
   },
   "keywords": [
     "COVID-19",
