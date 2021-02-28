@@ -1,0 +1,27 @@
+{
+  "name": "cdc-vaccinefinder",
+  "version": "1.0.0",
+  "description": "A Javascript wrapper for the CDC's COVID-19 vaccinefinder.org data",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaxbot/cdc-vaccinefinder.git"
+  },
+  "keywords": [
+    "COVID-19",
+    "vaccination",
+    "health",
+    "pandemic",
+    "CDC",
+    "API"
+  ],
+  "author": "Austin Carnahan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vaxbot/cdc-vaccinefinder/issues"
+  },
+  "homepage": "https://github.com/vaxbot/cdc-vaccinefinder#readme"
+}
