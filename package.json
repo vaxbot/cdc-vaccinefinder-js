@@ -1,6 +1,6 @@
 {
   "name": "cdc-vaccinefinder",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A Javascript wrapper for the CDC's COVID-19 vaccinefinder.org data",
   "main": "index.js",
   "scripts": {
